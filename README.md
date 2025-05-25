@@ -37,12 +37,4 @@ cd learn-mcp
 ## Usage
 
 ## Roadmap
-- [ ] Include OpenAPI.yaml specification.
-- [ ] CI/CD - to ensure no drift between OpenAPI spec and definition.
-- [ ] Include summary stats card + endpoint to call those stats.
-- [ ] Containerize all code using Docker and run with Docker Compose.
-- [ ] CI/CD - pre-commit hooks for linting and automated testing.
-- [ ] Extend to visualize more types of cloud resources.
-- [ ] Extend to other cloud service providers.
-- [ ] Load/stress testing with large number of cloud resources.
-- [ ] Explore the use of `goroutines` for concurrent processing.
+- [ ] placeholder
